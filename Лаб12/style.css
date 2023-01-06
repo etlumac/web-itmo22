@@ -121,7 +121,7 @@ article :is(.about){
 }
 
 article .top .container:not(:last-child){
-    margin-right: 30px;
+    margin-right: 400px;
 }
 
 article .top .btns{
